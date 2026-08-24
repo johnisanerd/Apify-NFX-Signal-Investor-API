@@ -185,9 +185,14 @@ It is a complement. Those platforms are company-centric databases; this is inves
 
 signal nfx, nfx signal investors, how to find investors, list of vc firms, vc database, venture capital data, pre seed investors, early stage investors, scraping investor lists
 
+## 🌐 About Alpha OSINT
+
+This example repo is part of [Alpha OSINT](https://www.alphaosint.com), a toolset of financial and operations data sources and APIs.
+See the [NFX Signal Investor API source page](https://www.alphaosint.com/sources/nfx-signal-investor-api/) for related tools and use cases.
+
 ## Related
 
 - Actor on Apify Store: https://apify.com/johnvc/nfx-signal-investor-api?fpr=9n7kx3
 - Report an issue: https://apify.com/johnvc/nfx-signal-investor-api/issues/open?fpr=9n7kx3
 
-Last Updated: 2026.08.20
+Last Updated: 2026.08.24
