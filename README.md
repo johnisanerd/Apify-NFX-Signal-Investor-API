@@ -185,6 +185,10 @@ It is a complement. Those platforms are company-centric databases; this is inves
 
 signal nfx, nfx signal investors, how to find investors, list of vc firms, vc database, venture capital data, pre seed investors, early stage investors, scraping investor lists
 
+## 🪢 Use this from n8n
+
+Available as an n8n community node, **[n8n-nodes-nfx-signal-investor-api](https://www.npmjs.com/package/n8n-nodes-nfx-signal-investor-api)**. In n8n: Settings, Community Nodes, install `n8n-nodes-nfx-signal-investor-api`, then use it in any workflow (it also works as an AI Agent tool).
+
 ## 🌐 About Alpha OSINT
 
 This example repo is part of [Alpha OSINT](https://www.alphaosint.com), a toolset of financial and operations data sources and APIs.
