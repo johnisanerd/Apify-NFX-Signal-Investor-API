@@ -199,4 +199,4 @@ See the [NFX Signal Investor API source page](https://www.alphaosint.com/sources
 - Actor on Apify Store: https://apify.com/johnvc/nfx-signal-investor-api?fpr=9n7kx3
 - Report an issue: https://apify.com/johnvc/nfx-signal-investor-api/issues/open?fpr=9n7kx3
 
-Last Updated: 2026.08.27
+Last Updated: 2026.08.28
