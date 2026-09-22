@@ -27,7 +27,7 @@ Get a free Apify account and API token: https://apify.com?fpr=9n7kx3
 - Investors with **check sizes** (min, target, max in USD), position, firm, and profile links
 - A **list of VC firms** per sector or geography, deduplicated and ready to import
 - The full **VC database** catalog: 349 lists across 103 sectors and four stages
-- Optional **LinkedIn and Crunchbase firm enrichment** in the same run
+- Optional **LinkedIn and [Crunchbase](https://apify.com/johnvc/crunchbase-company-api?fpr=9n7kx3) firm enrichment** in the same run
 - Cursor pagination that walks an entire list, with `maxItems` to cap a run
 - Pay per result, so scraping a small test list stays cheap
 
