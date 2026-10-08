@@ -190,7 +190,7 @@ Use `mode: "firms"` with a geographic list slug such as `san-francisco-bay-area`
 
 ### Is this a Crunchbase alternative?
 
-It is a complement. Those platforms are company-centric databases; this is investor-centric and includes check sizes that company databases rarely publish. You can enrich firms with Crunchbase data in the same run.
+It is a complement. Those platforms are company-centric databases; this is investor-centric and includes check sizes that company databases rarely publish. You can enrich firms with [Crunchbase](https://apify.com/johnvc/crunchbase-company-api?fpr=9n7kx3) data in the same run.
 
 ### People also search for
 
